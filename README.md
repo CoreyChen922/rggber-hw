@@ -12,4 +12,3 @@ Schematics and Bill of Material
 - ## RGGBer board level diagram
 
   ![board_level_v2.jpg][https://github.com/rggber/rggber-hw/blob/master/board_level_v2.jpg]
-  
