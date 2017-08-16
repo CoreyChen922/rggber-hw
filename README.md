@@ -9,6 +9,14 @@ Schematics and Bill of Material
 
   Image mainboard
 
+- ## rggber-hw/LCD_add_on
+
+  LCD add-on card
+
+- ## rggber-hw/iXCtrl_add_on
+
+  iXCtrl add-on card
+
 - ## RGGBer board level diagram
 
-  ![board_level_v2.jpg](board_level_v2.jpg)
+  ![board-level-v3.jpg](board-level-v3.jpg)
